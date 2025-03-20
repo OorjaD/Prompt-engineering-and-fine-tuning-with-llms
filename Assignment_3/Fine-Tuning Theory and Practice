@@ -119,9 +119,3 @@ Experiment with Learning Rates → Trying different values (e.g., 2e-5, 5e-5) ca
 Use Data Augmentation → Synonym replacement and paraphrasing help reduce bias.
 Train for More Epochs → Increasing epochs from 3 to 5 could enhance learning.
 
-Final Deliverables
-✔ Theoretical Understanding: Completed concept check, transfer learning explanation, and dataset preparation.
-✔ Practical Implementation: Fine-tuned DistilBERT on the IMDB sentiment classification task.
-✔ Evaluation and Reflection: Analyzed accuracy and proposed improvements.
-
-🚀 Fine-Tuning Completed Successfully! Let me know if you need any modifications! 😊
