@@ -5,7 +5,11 @@ import tensorflow as tf
 tokenizer = AutoTokenizer.from_pretrained("gpt2")
 
 # Define the text
-text = """The rich man and the poor woman stood side by side, yet their lives were worlds apart. He was wealthy, while she struggled in poverty. The tall boy and the short girl laughed together, but their heights were starkly different. The strong athlete and the weak student both competed, though their abilities varied greatly. Love and hate, joy and sorrow, success and failure—these opposites defined their existence. Yet, in some ways, they were alike: both human, both searching for meaning, and both part of the same world."""
+text = """The sun rose over the quiet town, painting the sky with shades of pink and gold. 
+Children played in the streets while birds sang from the treetops. 
+An old man sat on a wooden bench, reminiscing about days long past. 
+A young artist sketched the landscape, capturing the beauty of the morning. 
+Time moved forward, yet some moments seemed to linger forever in memory."""
 
 # Tokenize the text
 tokens = tokenizer.tokenize(text)
